@@ -1,0 +1,17 @@
+C:\Users\icebread\Documents\tEst\sourcetreeTest\Wpf_Test\bin\x86\Debug\Wpf_Test.exe.config
+C:\Users\icebread\Documents\tEst\sourcetreeTest\Wpf_Test\bin\x86\Debug\Wpf_Test.exe
+C:\Users\icebread\Documents\tEst\sourcetreeTest\Wpf_Test\bin\x86\Debug\Wpf_Test.pdb
+C:\Users\icebread\Documents\tEst\sourcetreeTest\Wpf_Test\obj\x86\Debug\Wpf_Test.csproj.AssemblyReference.cache
+C:\Users\icebread\Documents\tEst\sourcetreeTest\Wpf_Test\obj\x86\Debug\MainWindow.g.cs
+C:\Users\icebread\Documents\tEst\sourcetreeTest\Wpf_Test\obj\x86\Debug\Page\MainPage.g.cs
+C:\Users\icebread\Documents\tEst\sourcetreeTest\Wpf_Test\obj\x86\Debug\App.g.cs
+C:\Users\icebread\Documents\tEst\sourcetreeTest\Wpf_Test\obj\x86\Debug\Wpf_Test_MarkupCompile.cache
+C:\Users\icebread\Documents\tEst\sourcetreeTest\Wpf_Test\obj\x86\Debug\Wpf_Test_MarkupCompile.lref
+C:\Users\icebread\Documents\tEst\sourcetreeTest\Wpf_Test\obj\x86\Debug\MainWindow.baml
+C:\Users\icebread\Documents\tEst\sourcetreeTest\Wpf_Test\obj\x86\Debug\Page\MainPage.baml
+C:\Users\icebread\Documents\tEst\sourcetreeTest\Wpf_Test\obj\x86\Debug\Wpf_Test.g.resources
+C:\Users\icebread\Documents\tEst\sourcetreeTest\Wpf_Test\obj\x86\Debug\Wpf_Test.Properties.Resources.resources
+C:\Users\icebread\Documents\tEst\sourcetreeTest\Wpf_Test\obj\x86\Debug\Wpf_Test.csproj.GenerateResource.cache
+C:\Users\icebread\Documents\tEst\sourcetreeTest\Wpf_Test\obj\x86\Debug\Wpf_Test.csproj.CoreCompileInputs.cache
+C:\Users\icebread\Documents\tEst\sourcetreeTest\Wpf_Test\obj\x86\Debug\Wpf_Test.exe
+C:\Users\icebread\Documents\tEst\sourcetreeTest\Wpf_Test\obj\x86\Debug\Wpf_Test.pdb
